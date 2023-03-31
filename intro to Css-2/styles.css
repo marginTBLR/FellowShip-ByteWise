@@ -1,0 +1,33 @@
+
+.Hello1{
+     
+    background-color: pink;
+}
+
+.container{
+
+    margin: auto;
+    padding-left: 20px;
+    background-color: brown;
+
+    border: 5px blue solid;
+
+      
+}
+.container h1{
+
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+.Hello3 h1{
+
+    text-align: center;
+}
+
+
+a:hover{
+        background:yellow;
+    }
+    
+
+
